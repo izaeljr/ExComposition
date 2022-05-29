@@ -1,0 +1,15 @@
+D:\ws-vs2022\ExComposition\ExComposition\bin\Debug\net6.0\ExComposition.exe
+D:\ws-vs2022\ExComposition\ExComposition\bin\Debug\net6.0\ExComposition.deps.json
+D:\ws-vs2022\ExComposition\ExComposition\bin\Debug\net6.0\ExComposition.runtimeconfig.json
+D:\ws-vs2022\ExComposition\ExComposition\bin\Debug\net6.0\ExComposition.dll
+D:\ws-vs2022\ExComposition\ExComposition\bin\Debug\net6.0\ExComposition.pdb
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.csproj.AssemblyReference.cache
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.AssemblyInfoInputs.cache
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.AssemblyInfo.cs
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.csproj.CoreCompileInputs.cache
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.dll
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\refint\ExComposition.dll
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.pdb
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ExComposition.genruntimeconfig.cache
+D:\ws-vs2022\ExComposition\ExComposition\obj\Debug\net6.0\ref\ExComposition.dll
